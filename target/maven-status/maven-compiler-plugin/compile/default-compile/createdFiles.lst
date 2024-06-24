@@ -1,0 +1,7 @@
+com\example\cancer_risk_calculator\CancerRiskCalculatorApplication.class
+com\example\cancerriskcalculator\controller\HomeController.class
+com\example\cancer_risk_calculator\controller\RegistrationController.class
+com\example\cancer_risk_calculator\controller\CancerRiskCalculatorController.class
+com\example\cancer_risk_calculator\service\UserService.class
+com\example\cancer_risk_calculator\model\UserInput.class
+com\example\cancer_risk_calculator\service\CancerRiskCalculatorService.class
